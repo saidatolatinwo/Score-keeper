@@ -1,0 +1,46 @@
+.container{
+    width: 600px;
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(246, 237, 237);
+    box-sizing: border-box;
+}
+.pad{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3rem; 
+    width: 500px; height: 250px;
+}
+*{
+    text-align: center;
+    margin: 5px;
+}
+#p1Button{
+        width: auto; height: auto;
+        border-style: double;
+        border-radius: 2rem;
+        background-color: blue;
+        color: white;
+        padding: 1.3rem;
+}
+#p2Button{
+         width: auto; height: auto;
+         border-style: double;
+         border-radius: 2rem;
+         background-color: darkred;
+         color: white;
+         padding: 1.3rem;
+}
+#reset{
+    width: auto; height: auto;
+    border-style: double;
+    border-radius: 2rem;
+    background-color: dimgray;
+    color: white;
+    padding: 1.3rem;
+}
+#box{
+    margin: 2rem;
+}
